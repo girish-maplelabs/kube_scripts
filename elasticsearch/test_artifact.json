@@ -1,0 +1,6 @@
+{
+     "type": "github/file",
+     "name": "elasticsearch/deployments/es-client.yaml",
+     "reference": "https://raw.githubusercontent.com/girish-maplelabs/kube_scripts/master/elasticsearch/deployments/es-client.yaml"
+     
+}
