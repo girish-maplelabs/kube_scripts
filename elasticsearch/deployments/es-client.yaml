@@ -107,3 +107,5 @@ spec:
         - emptyDir:
             medium: ''
           name: storage
+definitions:
+  none:
