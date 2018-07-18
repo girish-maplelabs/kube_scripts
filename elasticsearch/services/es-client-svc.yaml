@@ -25,4 +25,4 @@ spec:
     targetPort: 9300
     protocol: TCP
 #type: LoadBalancer
-
+#test
